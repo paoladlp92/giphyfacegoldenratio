@@ -1,0 +1,316 @@
+body {
+   
+  display: inline;
+  color: #433E3F;
+  background: #605e5c;
+  max-width: 1920px;
+  margin: auto;
+  font-size: 21px;
+    max-width: 1920px;
+  
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+  }
+  
+
+
+  .container3 {
+ 
+    padding-top: 10%;
+   position: absolute;
+        max-width: 1920px;
+        height: 2000px;
+        left: 30%;
+  
+  }
+  
+  #face {
+    position: absolute;
+  
+  }
+
+
+
+
+#images {
+ 
+ 
+  position: absolute;
+ top: 300px;
+left: 100px;
+  background-repeat: no-repeat;
+  width: 250px;
+  height:200px;
+  background-size: 100%;
+ 
+  
+  
+  
+  
+}
+#imagestwo {
+  
+  position: absolute;
+  top: 300px;
+ left: 450px;
+   background-repeat: no-repeat;
+   width: 250px;
+   height:200px;
+   background-size: 100%;
+  
+
+}
+#imagesthree {
+ 
+  position: absolute;
+  top: 500px;
+ left: 330px;
+   background-repeat: no-repeat;
+   width: 130px;
+   height:100px;
+   background-size: 100%;
+
+}
+#imagesfour {
+ 
+  position: absolute;
+  top: 650px;
+ left: 250px;
+   background-repeat: no-repeat;
+   width: 300px;
+   height:150px;
+   background-size: 100%;
+
+}
+#imagesfive {
+  background: rgb(125, 75, 96);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
+}
+#imagessix {
+  background: rgb(125, 120, 75);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+#imagesseven{
+  background: rgb(75, 125, 120);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+#imageseight{
+  background: rgb(117, 95, 103);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagesnine{
+  background: rgb(52, 48, 112);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagesten{
+  background: rgb(156, 69, 69);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imageseleven{
+  background: rgb(144, 76, 150);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagestwelve{
+  background: rgb(112, 108, 48);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagesthirteen{
+  background: rgb(48, 89, 112);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagesforteen{
+  background: rgb(135, 127, 112);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagesfifteen{
+  background: rgb(201, 112, 188);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagessixteen{
+  background: rgb(119, 153, 135);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagesseventeen{
+  background: rgb(135, 78, 104);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imageseighteen{
+  background: rgb(135, 119, 78);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagesnineteen{
+  background: rgb(78, 96, 135);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagestwenty{
+  background: rgb(191, 2, 2);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagestwentyone{
+  background: rgb(79, 81, 85);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagestwentytwo{
+  background: rgb(166, 177, 141);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagestwentythree{
+  background: rgb(140, 89, 132);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagestwentyfour{
+  background: rgb(141, 153, 143);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+#imagestwentyfive{
+  background: rgb(95, 127, 191);
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+ 
+  .container1 {
+    background: rgb(114, 114, 114);
+    
+   
+  }
+
+  .container2 {
+ 
+    padding-top: 10px;
+   
+    font-size: 40px;
+    text-shadow: 3px 2px rgb(207, 197, 197);
+  }
+
+ 
+
+ 
+
+
+
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    height: 512px;
+    
+    color: rgb(255, 255, 255);
+    text-align: center;
+    color: rgb(201, 86, 86);
+    align-content: center;
+  }
+  
+
+
+
+ 
